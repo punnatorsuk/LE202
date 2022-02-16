@@ -15,7 +15,7 @@
 ### ลิงต์ https://www.newark.com/microchip/rfpic12f675kt-i-ss/ic-microcontroller-8-bit-pic-cpu/dp/29H5123?CMP=AFC-SF-FC
 
 ## ESP32-S3-DevKitC-1
-### ราคา 285 บาท
+### ราคา 285.00 บาท
 ### ความเร็ว : 2.4 GHz
 ### หน่วยความจำ : Dual high performance Xtensa® 32-bit LX6 CPU cores
 ### พอร์ท input/output : ESP32 Development Board
